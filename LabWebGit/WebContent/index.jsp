@@ -9,6 +9,7 @@
 </head>
 <body>
 
-<a href="<c:url value='Servlet' />">servlet</a>
+<a href="<c:url value='/Servlet' />">servlet</a>
+<a href="Servlet" />servlet</a>
 </body>
 </html>
