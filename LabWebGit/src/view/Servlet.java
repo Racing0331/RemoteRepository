@@ -22,7 +22,7 @@ public class Servlet extends HttpServlet {
 		response.setContentType("text/html");
 		response.setCharacterEncoding("UTF-8");
 		PrintWriter w = response.getWriter();
-		w.write("<H2>國國國</H2>");
+		w.write("<H2>國國QQ國</H2>");
 		
 	}
 
