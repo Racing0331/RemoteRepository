@@ -8,7 +8,10 @@
 <title>Insert title here</title>
 </head>
 <body>
+
 <h2>QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ</h2>
 <a href="<c:url value='Servlet' />">servlet</a>
+<a href="<c:url value='/Servlet' />">servlet</a>
+<a href="Servlet" />servlet</a>
 </body>
 </html>
